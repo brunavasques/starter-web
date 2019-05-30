@@ -10,4 +10,6 @@ Sample website with plenty of files for demos
 
 Please fork this repository and then issue Pull Requests for review.
 
-Git.training
+Git.training. All rights reserved.
+
+
